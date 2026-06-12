@@ -63,24 +63,16 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
-
----
-
+<!--
 ## 📌 Featured Work
-
 ### 🎓 GrowthEd
-
 Interactive educational platform featuring content licensing, analytics, content delivery, and engagement tracking.
-
 ### 📈 Observability & Monitoring
-
 Built monitoring solutions using Prometheus, Grafana, Node Exporter, and custom application metrics.
-
 ### 🤖 AI & Automation
-
 Experimenting with AI agents, workflow automation, RAG pipelines, and LLM-powered applications.
-
 ---
+-->
 
 ## 📊 GitHub Stats
 
@@ -107,11 +99,11 @@ Experimenting with AI agents, workflow automation, RAG pipelines, and LLM-powere
 ## 🤝 Connect With Me
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/iamroshhe">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:roshhe7@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
