@@ -28,13 +28,9 @@
 
 <p align="left">I'm Roshan Rawat from India 🚀.<br><br>- 🔭 I’m working as Frontend Engineer<br>- 📚 I'm currently learning Backend Development.<br>- ⚡ In my free time I play football ⚽.</p>
 
-###
+<!-- <h3 align="left">🛠 Language and tools</h3> -->
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
+<!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -60,7 +56,44 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+</div> -->
+
+## 🛠 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux" />
+</p>
+
+### Monitoring & Observability
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ###
 
