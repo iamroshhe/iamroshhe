@@ -1,108 +1,123 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">Hi, I'm Roshan Rawat 👋</h1>
 
-###
+<p align="center">
+  <strong>Software Engineer • Full-Stack Developer • AI Enthusiast</strong>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+<p align="center">
+  Building scalable applications, analytics platforms, and AI-powered solutions.
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=iamroshhe.iamroshhe&"  />
-</div>
+## 🚀 About Me
 
-###
+* 💼 Software Engineer building full-stack applications and backend systems
+* 🤖 Exploring AI Agents, RAG, and LLM-powered applications
+* 📊 Experienced with analytics, observability, and monitoring systems
+* ☁️ Working with cloud-native and containerized applications
+* ⚽ Football enthusiast outside of coding
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Roshan Rawat from India 🚀.<br><br>- 🔭 I’m working as Frontend Engineer<br>- 📚 I'm currently learning Backend Development.<br>- ⚡ In my free time I play football ⚽.</p>
-
-<!-- <h3 align="left">🛠 Language and tools</h3> -->
-
-<!-- <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div> -->
+---
 
 ## 🛠 Tech Stack
 
 ### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python" />
 </p>
 
 ### Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
 ### Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### Cloud & DevOps
+
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux" />
 </p>
 
 ### Monitoring & Observability
+
 <p>
   <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
 </p>
 
 ### Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+## 📌 Featured Work
 
-###
+### 🎓 GrowthEd
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=iamroshhe&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+Interactive educational platform featuring content licensing, analytics, content delivery, and engagement tracking.
 
-###
+### 📈 Observability & Monitoring
+
+Built monitoring solutions using Prometheus, Grafana, Node Exporter, and custom application metrics.
+
+### 🤖 AI & Automation
+
+Experimenting with AI agents, workflow automation, RAG pipelines, and LLM-powered applications.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamroshhe&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamroshhe&layout=compact&theme=github_dark&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iamroshhe&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+* Multi-Agent Systems
+* Retrieval-Augmented Generation (RAG)
+* AI Engineering & Agent Workflows
+* Advanced System Design
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building software, exploring AI, and continuously learning.</i>
+</p>
